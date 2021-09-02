@@ -1,0 +1,9 @@
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\thumbnail\thumbnail\bin\Debug\thumbnail.exe.config
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\thumbnail\thumbnail\bin\Debug\thumbnail.exe
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\thumbnail\thumbnail\bin\Debug\thumbnail.pdb
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\thumbnail\thumbnail\obj\Debug\thumbnail.csprojResolveAssemblyReference.cache
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\thumbnail\thumbnail\obj\Debug\thumbnail.Form1.resources
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\thumbnail\thumbnail\obj\Debug\thumbnail.Properties.Resources.resources
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\thumbnail\thumbnail\obj\Debug\thumbnail.csproj.GenerateResource.Cache
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\thumbnail\thumbnail\obj\Debug\thumbnail.exe
+c:\users\ahmad\onedrive\documents\visual studio 2015\Projects\thumbnail\thumbnail\obj\Debug\thumbnail.pdb
